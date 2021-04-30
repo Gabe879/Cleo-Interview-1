@@ -1,0 +1,16 @@
+E:\Desktop\CleoInterview\Cleo-Interview-1\bin\Debug\net5.0\Cleo-Interview-1.exe
+E:\Desktop\CleoInterview\Cleo-Interview-1\bin\Debug\net5.0\Cleo-Interview-1.deps.json
+E:\Desktop\CleoInterview\Cleo-Interview-1\bin\Debug\net5.0\Cleo-Interview-1.runtimeconfig.json
+E:\Desktop\CleoInterview\Cleo-Interview-1\bin\Debug\net5.0\Cleo-Interview-1.runtimeconfig.dev.json
+E:\Desktop\CleoInterview\Cleo-Interview-1\bin\Debug\net5.0\Cleo-Interview-1.dll
+E:\Desktop\CleoInterview\Cleo-Interview-1\bin\Debug\net5.0\ref\Cleo-Interview-1.dll
+E:\Desktop\CleoInterview\Cleo-Interview-1\bin\Debug\net5.0\Cleo-Interview-1.pdb
+E:\Desktop\CleoInterview\Cleo-Interview-1\obj\Debug\net5.0\Cleo-Interview-1.csprojAssemblyReference.cache
+E:\Desktop\CleoInterview\Cleo-Interview-1\obj\Debug\net5.0\Cleo-Interview-1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\CleoInterview\Cleo-Interview-1\obj\Debug\net5.0\Cleo-Interview-1.AssemblyInfoInputs.cache
+E:\Desktop\CleoInterview\Cleo-Interview-1\obj\Debug\net5.0\Cleo-Interview-1.AssemblyInfo.cs
+E:\Desktop\CleoInterview\Cleo-Interview-1\obj\Debug\net5.0\Cleo-Interview-1.csproj.CoreCompileInputs.cache
+E:\Desktop\CleoInterview\Cleo-Interview-1\obj\Debug\net5.0\Cleo-Interview-1.dll
+E:\Desktop\CleoInterview\Cleo-Interview-1\obj\Debug\net5.0\ref\Cleo-Interview-1.dll
+E:\Desktop\CleoInterview\Cleo-Interview-1\obj\Debug\net5.0\Cleo-Interview-1.pdb
+E:\Desktop\CleoInterview\Cleo-Interview-1\obj\Debug\net5.0\Cleo-Interview-1.genruntimeconfig.cache
